@@ -29,6 +29,7 @@ import (
 const (
 	contentTypeHeader  = "Content-Type"
 	cacheControlHeader = "Cache-Control"
+	contentEncodingHeader = "Content-Encoding"
 )
 
 const (
